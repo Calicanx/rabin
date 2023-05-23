@@ -1,7 +1,8 @@
-import twitter from './pics/twitter.png';
-import tiktok from './pics/tiktok.png';
-import facebook from './pics/facebook.png';
-import whatsapp from './pics/whatsapp.png';
+import html5 from './pics/html5.png';
+import css from './pics/css.png';
+import react from './pics/react.png';
+import django from './pics/django.png';
+import ruby from './pics/ruby.png';
 import './Dev.css';
 
 export default function MainAbout(){
@@ -13,23 +14,23 @@ export default function MainAbout(){
             </div>
             <div className='col-12 sicon flex'>
                 <div className='skillbtn'>
-                    <img className='iconpic' src={twitter}></img>
+                    <img className='iconpic' src={html5}></img>
                     <h4 className='sk'>HTML5</h4>
                 </div>
                 <div className='skillbtn'>
-                    <img className='iconpic' src={tiktok}></img>
+                    <img className='iconpic' src={css}></img>
                     <h4 className='sk'>CSS</h4>
                 </div>
                 <div className='skillbtn'>
-                    <img className='iconpic' src={whatsapp}></img>
+                    <img className='iconpic' src={react}></img>
                     <h4 className='sk'>React</h4>
                 </div>
                 <div className='skillbtn'>
-                    <img className='iconpic' src={facebook}></img>
+                    <img className='iconpic' src={django}></img>
                     <h4 className='sk'>Django</h4>
                 </div>
                 <div className='skillbtn'>
-                    <img className='iconpic' src={tiktok}></img>
+                    <img className='iconpic' src={ruby}></img>
                     <h4 className='sk'>Ruby</h4>
                 </div>
             </div>
