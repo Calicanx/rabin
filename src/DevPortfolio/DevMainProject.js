@@ -16,7 +16,7 @@ export default function MainProjects(){
                 <a href='https://bit.ly/ivoryafrica'><img className='ppic' src={ppic1}></img></a>
                 </div>
                 <div className='col-6 mw'>
-                <a href='https://bit.ly/tendengo'><img className='ppic' src={ppic2}></img></a>
+                <a href='https://tenda-ngo.vercel.app/'><img className='ppic' src={ppic2}></img></a>
                 </div>
             </div>
             <div className='col-12 center'>
